@@ -1,0 +1,17 @@
+DATA QUALITY ASSESSMENT
+
+Problem:
+The client provided KPMG with 3 datasets:
+-Customer Demographic 
+-Customer Addresses
+-Transactions data in the past 3 months
+
+You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+
+Solution:
+Notable data quality issues that were encountered and the methods used to mitigate the identified data inconsistencies are as follows. Furthermore, recommendations 
+have been provided to avoid the reoccurrence of data quality issues and improve the accuracy of the underlying data used to drive business decisions.
+● Additional customer_ids in the ‘Transactions table’ and ‘Customer Address table’ but not in ‘Customer Master (Customer Demographic)’
+● Various columns, such as the brand of a purchase, or job title, have empty values in certain records
+● Inconsistent values for the same attribute (e.g. Victoria being represented as “V”, “Vic” and “Victoria”)
+● Inconsistent data type for the sameattribute (e.g. numeric values for some fields and strings for others)
