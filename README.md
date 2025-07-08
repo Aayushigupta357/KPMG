@@ -16,19 +16,19 @@ The main objectives of the virtual internship are as follows:
   * Provide actionable recommendations based on the data analysis to address the client's business challenges.
 
 
--1. Data Quality Assessment: This directory contains:
+#1. Data Quality Assessment: This directory contains:
    - the dataset provided for the internship project
    * a folder containing the cleaned data in .csv format with its .ipynb file containing the code and documentation
    + the merged csv file for data analysis
    - solution for the first task in both .docx and .pdf format.
 
--2. Data Insights: This directory contains:
+#2. Data Insights: This directory contains:
    - the template for task 2
    * the solution for the task in .pptx format
    + the 'data analysis' file for the interpretation and charts
 
--3. Data Insights and Presentation: This directory includes the visualizations and dashboards created during the internship in .twbx format made with Tableau along with the xlsx files of current and target customers for data analysis.
+#3. Data Insights and Presentation: This directory includes the visualizations and dashboards created during the internship in .twbx format made with Tableau along with the xlsx files of current and target customers for data analysis.
 
--Certificate of Completion_Aayushi Gupta: This contains the certificate of completion from KPMG AU and Forage.
+#Certificate of Completion_Aayushi Gupta: This contains the certificate of completion from KPMG AU and Forage.
 
--README.md: This file provides an overview of the internship and repository.
+#README.md: This file provides an overview of the internship and repository.
