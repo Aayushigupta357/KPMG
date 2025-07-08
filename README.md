@@ -34,4 +34,4 @@ This directory includes the visualizations and dashboards created during the int
 This contains the certificate of completion from KPMG AU and Forage.
 
 # README.md 
-\This file provides an overview of the internship and repository.
+This file provides an overview of the internship and repository.
